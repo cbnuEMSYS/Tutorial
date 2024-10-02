@@ -1,3 +1,3 @@
 # Tutorial
 This is tutorial repository for begginer of git
-Please put your name right here : CTRLHyeon
+Please put your name right here : 
